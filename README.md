@@ -5,6 +5,5 @@ Mening ismim Sabina
 Hozirda o'rganyapman 
 -Git & Github✔
 -HTML va CSS🎮
-## Loyihalarim 
--[Men-haqimda](https://github.com/sabinaboqijonova/Men_haqimda.git)
-Barchangiz bilan tanishganimdan hursandman! ✨ Hamkorlik yoki muloqot uchun doimo ochiqman! 🤝
+
+Barchangiz bilan tanishganimdan hursandman! ✨ 
